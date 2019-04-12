@@ -1,6 +1,6 @@
 {
     "files.exclude": {},
-    "python.pythonPath": "E:\\Softwares\\python\\python.exe",
+    "python.pythonPath": "C:\\Users\\karthik kumar\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
     "editor.formatOnSave": true,
     "editor.formatOnPaste": true,
     "editor.tabSize": 4,
@@ -9,6 +9,10 @@
     "files.trimFinalNewlines": true,
     "git.ignoreLimitWarning": true,
     "cSpell.words": [
-        "pylint"
+        "Datatypes",
+        "Rossum",
+        "autopep",
+        "pylint",
+        "youtube"
     ],
 }
